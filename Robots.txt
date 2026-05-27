@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-PAGES-URL.pages.dev/sitemap.xml
+Sitemap: https://65d8ec98.backlinks-indexer-2.pages.dev/sitemap.xml
